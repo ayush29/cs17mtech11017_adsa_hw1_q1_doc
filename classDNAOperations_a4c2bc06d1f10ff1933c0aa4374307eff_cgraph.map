@@ -1,0 +1,4 @@
+<map id="DNAOperations::deletion" name="DNAOperations::deletion">
+<area shape="rect" id="node2" href="$classPseudoDNAMolecule.html#ab8b59de11d46b2ef49331b506c9d8544" title="Gets the pointer to chain by identifier. " alt="" coords="223,5,378,47"/>
+<area shape="rect" id="node3" href="$classChain.html#a881decaedaa572adfb1babe9320664aa" title="Deletes a Nucleotide object at position pos(passed as parameter). " alt="" coords="220,71,381,98"/>
+</map>

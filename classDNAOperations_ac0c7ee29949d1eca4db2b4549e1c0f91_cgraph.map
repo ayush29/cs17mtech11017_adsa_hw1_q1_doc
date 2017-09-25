@@ -1,0 +1,4 @@
+<map id="DNAOperations::insert" name="DNAOperations::insert">
+<area shape="rect" id="node2" href="$classPseudoDNAMolecule.html#ab8b59de11d46b2ef49331b506c9d8544" title="Gets the pointer to chain by identifier. " alt="" coords="210,5,365,47"/>
+<area shape="rect" id="node3" href="$classChain.html#a29f1004443b1380512872c8b54bfa5ae" title="Inserts a Nucleotide object in chain at position passed as parameter. " alt="" coords="208,71,367,98"/>
+</map>
