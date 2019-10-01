@@ -1,4 +1,4 @@
-# Pseudo DNA Molecule Implemtation
+# Pseudo DNA Molecule Implementation
 
 Implementation of various operations on a pseudo DNA molecule.
 
